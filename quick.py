@@ -1,0 +1,23 @@
+# Write your code here :-)
+import time
+print("Crack it")
+snip = input()
+time.sleep(3)
+if snip == "crack":
+    print("you cracked the lock")
+else:
+     print("the lock stands stadic")
+     time.sleep(1)
+     print("no.. No NO")
+     time.sleep(1)
+     print("I am sorry but their is no end for you")
+     time.sleep(1)
+     print("you look at yourself not through a mirror but through your own eyes")
+     time.sleep(1)
+     print("It is time to give up")
+     time.sleep(10)
+     print("perhaps their is a better end")
+     time.sleep(2)
+     print("play the teaser on github and later replit")
+     time.sleep(1)
+     print("https://github.com/Jackisapi/Text-based-game-demo")
